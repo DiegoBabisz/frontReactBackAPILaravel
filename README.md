@@ -2,6 +2,8 @@
 
   - A API irá tratar as informações do usuário.
 
-  - Usado OAuth
+  - Usado OAuth 2.0
+
+  -
 
  
