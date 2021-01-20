@@ -4,7 +4,7 @@
 
   - Usado OAuth 2.0
   
-  -
+  - Front em React
  
 
  
